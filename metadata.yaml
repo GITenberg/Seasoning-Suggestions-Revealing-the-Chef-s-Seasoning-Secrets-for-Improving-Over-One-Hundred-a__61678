@@ -1,0 +1,25 @@
+_repo: Seasoning-Suggestions-Revealing-the-Chef-s-Seasoning-Secrets-for-Improving-Over-One-Hundred-a__61678
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lea & Perrins Limited
+    alias: Lea and Perrins Limited
+    gutenberg_agent_id: '51557'
+    url: http://www.gutenberg.org/2009/agents/51557
+    wikipedia: https://en.wikipedia.org/wiki/Lea_%26_Perrins
+description: ''
+gutenberg_issued: '2020-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61678'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking (Worcestershire sauce)'
+- !lcc 'TX'
+- GITenberg
+title: "Seasoning Suggestions\r\nRevealing the Chef's Seasoning Secrets for Improving\
+  \ Over One Hundred and Fifty Dishes With Lea & Perrins' Sauce"
+url: http://www.gutenberg.org/ebooks/61678
