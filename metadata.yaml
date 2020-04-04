@@ -1,5 +1,8 @@
 _repo: Seasoning-Suggestions-Revealing-the-Chef-s-Seasoning-Secrets-for-Improving-Over-One-Hundred-a__61678
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61678-h/images/cover.jpg
 creator:
   author:
     agent_name: Lea & Perrins Limited
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51557
     wikipedia: https://en.wikipedia.org/wiki/Lea_%26_Perrins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61678#Seasoning-Suggestions-Revealing-the-Chef-s-Seasoning-Secrets-for-Improving-Over-One-Hundred-a_
 gutenberg_issued: '2020-03-25'
 gutenberg_type: Text
 identifiers:
